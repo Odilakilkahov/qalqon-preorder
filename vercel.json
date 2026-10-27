@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/lead",
+      "destination": "https://automation.178-105-119-125.sslip.io/api/lead"
+    }
+  ]
+}
